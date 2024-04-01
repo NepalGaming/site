@@ -25,9 +25,9 @@ require (
 	github.com/hbstack/blog/modules/toc-scrollspy v0.1.20 // indirect
 	github.com/hbstack/bootstrap v0.2.1 // indirect
 	github.com/hbstack/breadcrumb v0.6.0 // indirect
-	github.com/hbstack/carousel v0.2.4 // indirect
+	github.com/hbstack/carousel v0.2.5 // indirect
 	github.com/hbstack/code-block-panel v0.1.2 // indirect
-	github.com/hbstack/content-panel v0.7.2 // indirect
+	github.com/hbstack/content-panel v0.8.0 // indirect
 	github.com/hbstack/docs v0.13.0 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.9 // indirect
 	github.com/hbstack/docs/modules/content-panel v0.1.8 // indirect
@@ -77,7 +77,7 @@ require (
 	github.com/hugomods/icons v0.6.3 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.6 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.5 // indirect
-	github.com/hugomods/icons/vendors/simple-icons v1.0.35 // indirect
+	github.com/hugomods/icons/vendors/simple-icons v1.0.36 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.10.1 // indirect
 	github.com/hugomods/katex v0.3.1 // indirect
@@ -92,7 +92,7 @@ require (
 	github.com/hugomods/seo/modules/translations v0.1.0 // indirect
 	github.com/hugomods/seo/modules/twitter-cards v0.1.0 // indirect
 	github.com/hugomods/shortcodes v0.18.1 // indirect
-	github.com/hugomods/simple-icons v11.10.0+incompatible // indirect
+	github.com/hugomods/simple-icons v11.11.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
 	github.com/jakearchibald/idb v8.0.0+incompatible // indirect
