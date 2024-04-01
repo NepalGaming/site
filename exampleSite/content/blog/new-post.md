@@ -1,7 +1,7 @@
 ---
-title: Example Post without Images
+title: A New Post for the Blog
 featured: true
-date: 2022-09-10
+date: 2024-04-01
 series:
   - Examples
 tags:
