@@ -1,6 +1,6 @@
 module github.com/hbstack/theme-cards
 
-go 1.19
+go 1.22.1
 
 require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect

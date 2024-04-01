@@ -1,8 +1,6 @@
-module github.com/hbstack/theme-cards/exampleSite
+module github.com/nirose/hugo-cards
 
-go 1.19
-
-replace github.com/hbstack/theme-cards => ../
+go 1.22.1
 
 require (
 	github.com/GoogleChrome/workbox v7.0.0+incompatible // indirect
