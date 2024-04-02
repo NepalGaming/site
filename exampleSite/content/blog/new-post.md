@@ -6,6 +6,8 @@ series:
   - Examples
 tags:
   - Images
+images:
+  - /images/cloudflare-ga4-activity.webp
 ---
 
-A sample for showing how theme display posts those without images.
+A sample for showing how theme display posts those with images. Testing a new image

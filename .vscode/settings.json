@@ -1,0 +1,12 @@
+{
+    "frontMatter.framework.id": "hugo",
+    "frontMatter.content.publicFolder": "exampleSite/static",
+    "frontMatter.preview.host": "http://localhost:1313",
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "content",
+            "path": "[[workspace]]/exampleSite/content/blog"
+        }
+    ],
+    "frontMatter.git.enabled": true
+}
