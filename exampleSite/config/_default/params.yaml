@@ -22,78 +22,7 @@ hb:
       twitter: razonyang
       rss: true
       mastodon: https://techhub.social/@hbstack
-    - identifier: a
-      name: A
-    - name: A-1
-      params:
-        icon:
-          color: '#712cf9'
-          name: 1-square
-          vendor: bootstrap
-      parent: a
-      url: '#a-1'
-    - name: A-2
-      params:
-        icon:
-          color: '#712cf9'
-          name: 2-square
-          vendor: bootstrap
-      parent: a
-      url: '#a-2'
-    - identifier: b
-      name: B
-    - name: B-1
-      params:
-        icon:
-          color: green
-          name: 1-square
-          vendor: bootstrap
-      parent: b
-      url: '#b-1'
-    - name: B-2
-      params:
-        icon:
-          color: green
-          name: 2-square
-          vendor: bootstrap
-      parent: b
-      url: '#b-2'
-    - identifier: c
-      name: C
-    - name: C-1
-      params:
-        icon:
-          color: blue
-          name: 1-square
-          vendor: bootstrap
-      parent: c
-      url: '#c-1'
-    - name: C-2
-      params:
-        icon:
-          color: blue
-          name: 2-square
-          vendor: bootstrap
-      parent: c
-      url: '#c-2'
-    - identifier: d
-      name: D
-    - name: D-1
-      params:
-        icon:
-          color: red
-          name: 1-square
-          vendor: bootstrap
-      parent: d
-      url: '#d-1'
-    - name: D-2
-      params:
-        icon:
-          color: red
-          name: 2-square
-          vendor: bootstrap
-      parent: d
-      url: '#d-2'
+  
   blog:
     list_cols_md: 2
     list_cols_lg: 3
