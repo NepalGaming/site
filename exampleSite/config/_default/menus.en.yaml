@@ -82,75 +82,107 @@ main:
       description: Follow us on Mastodon to get latest updates.
 footer:
 - identifier: a
-  name: A
-- name: A-1
+  name: Events
+- name: Ongoing
   params:
     icon:
       color: '#712cf9'
-      name: 1-square
+      name: arrow-right-circle-fill
       vendor: bootstrap
   parent: a
   url: '#a-1'
-- name: A-2
+- name: Coming Soon
   params:
     icon:
       color: '#712cf9'
-      name: 2-square
+      name: arrow-up-circle-fill
       vendor: bootstrap
   parent: a
   url: '#a-2'
+- name: Past
+  params:
+    icon:
+      color: '#712cf9'
+      name: arrow-down-circle-fill
+      vendor: bootstrap
+  parent: a
+  url: '#a-3'
 - identifier: b
-  name: B
-- name: B-1
+  name: Resources
+- name: Games
   params:
     icon:
       color: green
-      name: 1-square
+      name: display
       vendor: bootstrap
   parent: b
   url: '#b-1'
-- name: B-2
+- name: Wiki
   params:
     icon:
       color: green
-      name: 2-square
+      name: book-half
       vendor: bootstrap
   parent: b
   url: '#b-2'
+- name: Blog
+  params:
+    icon:
+      color: green
+      name: journal-richtext
+      vendor: bootstrap
+  parent: b
+  url: '#b-3'
 - identifier: c
-  name: C
-- name: C-1
+  name: Company
+- name: About Us
   params:
     icon:
       color: blue
-      name: 1-square
+      name: people-fill
       vendor: bootstrap
   parent: c
   url: '#c-1'
-- name: C-2
+- name: Contact
   params:
     icon:
       color: blue
-      name: 2-square
+      name: inbox-fill
       vendor: bootstrap
   parent: c
   url: '#c-2'
+- name: Meetups
+  params:
+    icon:
+      color: blue
+      name: person-raised-hand
+      vendor: bootstrap
+  parent: c
+  url: '#c-3'
 - identifier: d
-  name: D
-- name: D-1
+  name: Support
+- name: Contribute
   params:
     icon:
       color: red
-      name: 1-square
+      name: pencil-square
       vendor: bootstrap
   parent: d
   url: '#d-1'
-- name: D-2
+- name: Donate
   params:
     icon:
       color: red
-      name: 2-square
+      name: currency-exchange
       vendor: bootstrap
   parent: d
   url: '#d-2'
+- name: Share the Word
+  params:
+    icon:
+      color: red
+      name: person-hearts
+      vendor: bootstrap
+  parent: d
+  url: '#d-3'
 
