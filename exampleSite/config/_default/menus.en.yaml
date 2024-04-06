@@ -81,6 +81,32 @@ main:
         name: mastodon
       description: Follow us on Mastodon to get latest updates.
 footer:
+- identifier: c
+  name: Company
+- name: About Us
+  params:
+    icon:
+      color: blue
+      name: people-fill
+      vendor: bootstrap
+  parent: c
+  url: '#c-1'
+- name: Contact
+  params:
+    icon:
+      color: blue
+      name: inbox-fill
+      vendor: bootstrap
+  parent: c
+  url: '#c-2'
+- name: Meetups
+  params:
+    icon:
+      color: blue
+      name: person-raised-hand
+      vendor: bootstrap
+  parent: c
+  url: '#c-3'
 - identifier: a
   name: Events
 - name: Ongoing
@@ -133,32 +159,6 @@ footer:
       vendor: bootstrap
   parent: b
   url: '#b-3'
-- identifier: c
-  name: Company
-- name: About Us
-  params:
-    icon:
-      color: blue
-      name: people-fill
-      vendor: bootstrap
-  parent: c
-  url: '#c-1'
-- name: Contact
-  params:
-    icon:
-      color: blue
-      name: inbox-fill
-      vendor: bootstrap
-  parent: c
-  url: '#c-2'
-- name: Meetups
-  params:
-    icon:
-      color: blue
-      name: person-raised-hand
-      vendor: bootstrap
-  parent: c
-  url: '#c-3'
 - identifier: d
   name: Support
 - name: Contribute
