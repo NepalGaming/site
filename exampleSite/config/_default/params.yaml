@@ -30,11 +30,16 @@ hb:
       position: end
     social_share_buttons:
       alignment: center
+      labels: false
+      size: 2em
       media:
         - twitter
         - facebook
         - linkedin
+        - email
         - reddit
+        - telegram
+        - whatsapp
     sidebar:
       sticky: true # set it to false to not stick the sidebar.
       width: .35 # the width of sidebar.
