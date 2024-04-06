@@ -81,35 +81,11 @@ main:
         name: mastodon
       description: Follow us on Mastodon to get latest updates.
 footer:
-- identifier: c
-  name: Company
-- name: About Us
-  params:
-    icon:
-      color: blue
-      name: people-fill
-      vendor: bootstrap
-  parent: c
-  url: '#c-1'
-- name: Contact
-  params:
-    icon:
-      color: blue
-      name: inbox-fill
-      vendor: bootstrap
-  parent: c
-  url: '#c-2'
-- name: Meetups
-  params:
-    icon:
-      color: blue
-      name: person-raised-hand
-      vendor: bootstrap
-  parent: c
-  url: '#c-3'
 - identifier: a
+  weight: 1
   name: Events
 - name: Ongoing
+  weight: 10
   params:
     icon:
       color: '#712cf9'
@@ -118,6 +94,7 @@ footer:
   parent: a
   url: '#a-1'
 - name: Coming Soon
+  weight: 11
   params:
     icon:
       color: '#712cf9'
@@ -126,6 +103,7 @@ footer:
   parent: a
   url: '#a-2'
 - name: Past
+  weight: 12
   params:
     icon:
       color: '#712cf9'
@@ -134,8 +112,10 @@ footer:
   parent: a
   url: '#a-3'
 - identifier: b
+  weight: 2
   name: Resources
 - name: Games
+  weight: 20
   params:
     icon:
       color: green
@@ -144,6 +124,7 @@ footer:
   parent: b
   url: '#b-1'
 - name: Wiki
+  weight: 21
   params:
     icon:
       color: green
@@ -152,6 +133,7 @@ footer:
   parent: b
   url: '#b-2'
 - name: Blog
+  weight: 22
   params:
     icon:
       color: green
@@ -159,9 +141,41 @@ footer:
       vendor: bootstrap
   parent: b
   url: '#b-3'
+- identifier: c
+  weight: 3
+  name: Company
+- name: About Us
+  weight: 30
+  params:
+    icon:
+      color: blue
+      name: people-fill
+      vendor: bootstrap
+  parent: c
+  url: '#c-1'
+- name: Contact
+  weight: 31
+  params:
+    icon:
+      color: blue
+      name: inbox-fill
+      vendor: bootstrap
+  parent: c
+  url: '#c-2'
+- name: Meetups
+  weight: 32
+  params:
+    icon:
+      color: blue
+      name: person-raised-hand
+      vendor: bootstrap
+  parent: c
+  url: '#c-3'
 - identifier: d
+  weight: 4
   name: Support
 - name: Contribute
+  weight: 40
   params:
     icon:
       color: red
@@ -170,6 +184,7 @@ footer:
   parent: d
   url: '#d-1'
 - name: Donate
+  weight: 41
   params:
     icon:
       color: red
@@ -178,6 +193,7 @@ footer:
   parent: d
   url: '#d-2'
 - name: Share the Word
+  weight: 42
   params:
     icon:
       color: red
