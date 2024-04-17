@@ -1,5 +1,6 @@
 {
     "frontMatter.framework.id": "hugo",
+    "frontMatter.framework.startCommand": "cd exampleSite | hugo server --gc -D",
     "frontMatter.content.publicFolder": "exampleSite/static",
     "frontMatter.preview.host": "http://localhost:1313",
     "frontMatter.content.pageFolders": [
@@ -8,5 +9,6 @@
             "path": "[[workspace]]/exampleSite/content/blog"
         }
     ],
-    "frontMatter.git.enabled": true
+    "frontMatter.git.enabled": true,
+    "[markdown]": {}
 }
