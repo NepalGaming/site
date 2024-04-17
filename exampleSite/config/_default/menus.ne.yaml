@@ -1,0 +1,82 @@
+main:
+  - identifier: blog
+    name: ब्लग
+    weight: 4
+    params:
+      icon:
+        vendor: fas
+        name: blog
+
+  - name: सहायोग
+    identifier: support
+    weight: 100
+    url: https://github.com/hbstack
+    params:
+      header: सहायोग समुदाय
+      icon:
+        vendor: font-awesome-solid
+        name: headset
+
+  - name: सहायोग सामग्री
+    identifier: support-docs
+    parent: support
+    url: https://hbstack.dev/
+    weight: 1
+    params:
+      icon:
+        vendor: bs
+        name: book
+      description: प्रयोगकर्ता दस्तावेज।
+
+  - name: GitHub
+    parent: support
+    url: https://github.com/hbstack
+    weight: 2
+    params:
+      icon:
+        vendor: fab
+        name: github
+      description: कोड भण्डार।
+
+  - name: चर्चा
+    parent: support
+    url: https://github.com/hbstack/discussions
+    weight: 3
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: comments
+        color: green
+      description: आफ्नो विचारहरू पोख्नुहोस।
+
+  - name: त्रुटिहरू प्रतिक्रिया
+    parent: support
+    url: https://github.com/hbstack/issues/new
+    weight: 4
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: bug
+        color: red
+      description: हामीलाई त्रुटि वा समस्याको बारेमा प्रतिक्रिया दिनुहोस्।
+
+  - name: नयाँ विशेषताहरूको प्रस्ताव
+    parent: support
+    url: https://github.com/hbstack/issues/new
+    weight: 5
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: lightbulb
+        color: orange
+      description: नयाँ सुझाव वा सुधार गर्न आवश्यक उपायहरू।
+  
+  - name: Mastodon
+    parent: support
+    url: https://mastodon.social/@ggnepal
+    weight: 6
+    params:
+      icon:
+        vendor: simple
+        name: mastodon
+      description: हामीलाई अनुसरण गर्नुहोस् र समाचार प्राप्त गर्नुहोस्।

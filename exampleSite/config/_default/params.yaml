@@ -103,10 +103,16 @@ hb:
       category_id: DIC_kwDOK1LmSc4CbdiM
     social_share_buttons:
       alignment: center
+      labels: false
+      size: 2em
       media:
         - twitter
         - facebook
         - linkedin
+        - email
+        - reddit
+        - telegram
+        - whatsapp
   content_panel:
     repo:
       service: github # github or gitlab.
