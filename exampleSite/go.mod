@@ -10,13 +10,13 @@ require (
 	github.com/hbstack/back-to-top v0.2.0 // indirect
 	github.com/hbstack/base v0.4.6 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.26.2 // indirect
+	github.com/hbstack/blog v0.27.2 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.22 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.23 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.23 // indirect
-	github.com/hbstack/blog/modules/post-nav v0.3.6 // indirect
+	github.com/hbstack/blog/modules/post-nav v0.3.7 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.2.5 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.7.0 // indirect
 	github.com/hbstack/blog/modules/sidebar/profile v1.1.5 // indirect
@@ -28,10 +28,10 @@ require (
 	github.com/hbstack/carousel v0.2.5 // indirect
 	github.com/hbstack/code-block-panel v0.1.2 // indirect
 	github.com/hbstack/content-panel v0.8.0 // indirect
-	github.com/hbstack/docs v0.14.0 // indirect
+	github.com/hbstack/docs v0.14.1 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.9 // indirect
 	github.com/hbstack/docs/modules/content-panel v0.1.8 // indirect
-	github.com/hbstack/docs/modules/doc-nav v0.3.4 // indirect
+	github.com/hbstack/docs/modules/doc-nav v0.3.5 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.2.8 // indirect
 	github.com/hbstack/docs/modules/giscus v0.1.10 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.9 // indirect
