@@ -3,7 +3,7 @@ title: "从 HB 新手模板迁移"
 description: "本指南介绍如何从 HB 初始主题迁移到 HB 卡主题。"
 # linkTitle:
 date: 2023-12-01T11:47:31+08:00
-draft: false
+draft: true
 noindex: false
 featured: true
 pinned: false

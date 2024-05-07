@@ -4,7 +4,7 @@ title: "Use Docs Layout on other Sections"
 description: "Guide for using the docs layout on other sections."
 # linkTitle:
 date: 2023-11-02T11:47:31+08:00
-draft: false
+draft: true
 noindex: false
 featured: true
 pinned: false

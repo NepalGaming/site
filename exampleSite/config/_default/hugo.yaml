@@ -1,5 +1,5 @@
 baseURL: https://gg.nepal.gg/
-title: HB Cards Theme
+title: Nepal's Gaming Hub
 # Copyright, the {year} is the placeholder of this year.
 copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
 defaultContentLanguage: en
@@ -13,8 +13,8 @@ title_sections_depth: 0 # the depth of sections on the title.
 title_sections_depth_dir: end # when start, the depth is counting from the root sections.
 
 permalinks:
-  blog: /blog/:year/:month/:title
-  news: /news/:year/:month/:title
+  blog: /blog/:year/:month/:filename
+  news: /news/:year/:month/:filename
 
 outputs:
   home:

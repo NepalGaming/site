@@ -1,5 +1,5 @@
 ---
-title: Nepali Gaming Hub
+title: डिजिटल खेलकूद समुदाय
 # menu:
 #   main:
 #     name: Home
