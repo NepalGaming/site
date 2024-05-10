@@ -3,11 +3,11 @@ title: Introducing GameNepal- A New Era for Nepalese Gamers!
 featured: true
 date: 2024-04-17
 series:
-  - Examples
+  - Announcements
 tags:
-  - Images
+  - Updates
 images:
-  - /images/cloudflare-ga4-activity.webp
+  - /images/nepali-gaming-commuity.jpg
 ---
 
 

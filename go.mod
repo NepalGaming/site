@@ -1,4 +1,4 @@
-module github.com/hbstack/theme-cards
+module github.com/nirose/hugo-cards
 
 go 1.22.1
 

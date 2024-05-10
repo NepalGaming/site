@@ -3,7 +3,7 @@ title: The Helldivers 2 PSN Controversy
 featured: true
 date: 2024-05-05
 series:
-  - News
+  - Gaming News
 tags:
   - Helldivers
 images:

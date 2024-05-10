@@ -171,34 +171,34 @@ footer:
       vendor: bootstrap
   parent: c
   url: '#c-3'
-- identifier: d
-  weight: 4
-  name: Support
-- name: Contribute
-  weight: 40
-  params:
-    icon:
-      color: red
-      name: pencil-square
-      vendor: bootstrap
-  parent: d
-  url: '#d-1'
-- name: Donate
-  weight: 41
-  params:
-    icon:
-      color: red
-      name: currency-exchange
-      vendor: bootstrap
-  parent: d
-  url: '#d-2'
-- name: Share the Word
-  weight: 42
-  params:
-    icon:
-      color: red
-      name: person-hearts
-      vendor: bootstrap
-  parent: d
-  url: '#d-3'
+# - identifier: d
+#   weight: 4
+#   name: Support
+# - name: Contribute
+#   weight: 40
+#   params:
+#     icon:
+#       color: red
+#       name: pencil-square
+#       vendor: bootstrap
+#   parent: d
+#   url: '#d-1'
+# - name: Donate
+#   weight: 41
+#   params:
+#     icon:
+#       color: red
+#       name: currency-exchange
+#       vendor: bootstrap
+#   parent: d
+#   url: '#d-2'
+# - name: Share the Word
+#   weight: 42
+#   params:
+#     icon:
+#       color: red
+#       name: person-hearts
+#       vendor: bootstrap
+#   parent: d
+#   url: '#d-3'
 

@@ -5,23 +5,23 @@ hb:
   # css_bundle_name: main # the CSS bundle name.
   full_width: false # when true, the layout takes full width globally.
   header:
-    brand: HB # the brand name, leave it empty to use site's title.
+    brand: Gaming Nepal # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
-      github: hbstack
+      github: nepalgg
       # twitter: razonyang
       rss: true
-      mastodon: https://techhub.social/@hbstack
+      mastodon: https://techhub.social/@nepalgg
   footer:
     powered_by: false
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       _color: true # when false, remove the color of social icons.
-      github: hbstack
-      twitter: razonyang
+      github: nepalgg
+      twitter: nepalgg
       rss: true
-      mastodon: https://techhub.social/@hbstack
+      mastodon: https://techhub.social/@nepalgg
   
   blog:
     list_cols_md: 2
@@ -47,12 +47,12 @@ hb:
       profile:
         # title: Profile title other than site title.
         # description: Profile description other than site description.
-        avatar_size: 100
+        avatar_size: 250
         company: COMPANY
-        location: Earth
+        location: Nepal
         socials:
-          github: hbstack
-          mastodon: https://techhub.social/@hbstack
+          github: nepalgg
+          mastodon: https://techhub.social/@nepalgg
           rss: true
       posts:
         recent_count: 5 # the number of recent posts.
@@ -93,12 +93,12 @@ hb:
         - blog
         - news
     giscus:
-      repo: hbstack/theme-cards
+      repo: nepalgg/site
       repo_id: R_kgDOK1LmSQ
       category_id: DIC_kwDOK1LmSc4CbdiM
   docs:
     giscus:
-      repo: hbstack/theme-cards
+      repo: nepalgg/site
       repo_id: R_kgDOK1LmSQ
       category_id: DIC_kwDOK1LmSc4CbdiM
     social_share_buttons:
@@ -115,8 +115,8 @@ hb:
         - whatsapp
   content_panel:
     repo:
-      service: github # github or gitlab.
-      repo: hbstack/theme-cards
+      service: github # github or gitlab for edits
+      repo: nirose/hugo-cards
       branch: main
       subpath: exampleSite
   # gallery:
