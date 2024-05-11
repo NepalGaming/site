@@ -20,7 +20,7 @@ main:
   - name: सहायोग सामग्री
     identifier: support-docs
     parent: support
-    url: https://hbstack.dev/
+    url: https://github.com/nepalgg
     weight: 1
     params:
       icon:
@@ -30,7 +30,7 @@ main:
 
   - name: GitHub
     parent: support
-    url: https://github.com/hbstack
+    url: https://github.com/nepalgg
     weight: 2
     params:
       icon:
@@ -73,7 +73,7 @@ main:
   
   - name: Mastodon
     parent: support
-    url: https://mastodon.social/@nepalgg
+    url: https://mstdn.games/@nepal
     weight: 6
     params:
       icon:

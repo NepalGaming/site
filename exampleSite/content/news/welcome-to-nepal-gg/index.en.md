@@ -6,6 +6,8 @@ series:
   - Announcements
 tags:
   - Updates
+authors:
+  - Admin
 images:
   - /images/nepali-gaming-commuity.jpg
 ---

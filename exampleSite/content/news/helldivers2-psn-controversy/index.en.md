@@ -6,6 +6,8 @@ series:
   - Gaming News
 tags:
   - Helldivers
+authors:
+  - Admin
 images:
   - /images/2024/05/05/psn-helldivers2-requirement.webp
 ---
