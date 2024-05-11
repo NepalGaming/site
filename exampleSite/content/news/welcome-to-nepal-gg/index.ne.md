@@ -7,7 +7,7 @@ series:
 tags:
   - Images
 images:
-  - /images/cloudflare-ga4-activity.webp
+  - /images/nepali-gaming-commuity.jpg
 ---
 
 
