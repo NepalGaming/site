@@ -1,4 +1,4 @@
-module github.com/nirose/hugo-cards
+module github.com/nepalgg/site
 
 go 1.22.1
 

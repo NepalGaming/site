@@ -116,7 +116,7 @@ hb:
   content_panel:
     repo:
       service: github # github or gitlab for edits
-      repo: nirose/hugo-cards
+      repo: nepalgg/site
       branch: main
       subpath: exampleSite
   # gallery:

@@ -3,9 +3,9 @@ title: गेमनेपालको परिचय - नेपाली ग�
 featured: true
 date: 2024-04-17
 series:
-  - Examples
+  - Announcements
 tags:
-  - Images
+  - Updates
 images:
   - /images/nepali-gaming-commuity.jpg
 ---

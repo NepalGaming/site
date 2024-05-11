@@ -10,7 +10,7 @@ main:
   - name: सहायोग
     identifier: support
     weight: 100
-    url: https://github.com/hbstack
+    url: https://github.com/nepalgg/site
     params:
       header: सहायोग समुदाय
       icon:
@@ -40,7 +40,7 @@ main:
 
   - name: चर्चा
     parent: support
-    url: https://github.com/hbstack/discussions
+    url: https://github.com/nepalgg/site/discussions
     weight: 3
     params:
       icon:
@@ -51,7 +51,7 @@ main:
 
   - name: त्रुटिहरू प्रतिक्रिया
     parent: support
-    url: https://github.com/hbstack/issues/new
+    url: https://github.com/nepalgg/site/issues/new
     weight: 4
     params:
       icon:
@@ -62,7 +62,7 @@ main:
 
   - name: नयाँ विशेषताहरूको प्रस्ताव
     parent: support
-    url: https://github.com/hbstack/issues/new
+    url: https://github.com/nepalgg/site/issues/new
     weight: 5
     params:
       icon:
@@ -73,7 +73,7 @@ main:
   
   - name: Mastodon
     parent: support
-    url: https://mastodon.social/@ggnepal
+    url: https://mastodon.social/@nepalgg
     weight: 6
     params:
       icon:
