@@ -12,7 +12,7 @@ hb:
       github: nepalgg
       # twitter: razonyang
       rss: true
-      mastodon: https://techhub.social/@nepalgg
+      mastodon: https://mstdn.games/@nepal
   footer:
     powered_by: false
     # see https://hbstack.dev/en/docs/modules/socials/.
@@ -21,7 +21,7 @@ hb:
       github: nepalgg
       twitter: nepalgg
       rss: true
-      mastodon: https://techhub.social/@nepalgg
+      mastodon: https://mstdn.games/@nepal
   
   blog:
     list_cols_md: 2
@@ -48,11 +48,11 @@ hb:
         # title: Profile title other than site title.
         # description: Profile description other than site description.
         avatar_size: 250
-        company: COMPANY
+        company:
         location: Nepal
         socials:
           github: nepalgg
-          mastodon: https://techhub.social/@nepalgg
+          mastodon: https://mstdn.games/@nepal
           rss: true
       posts:
         recent_count: 5 # the number of recent posts.
