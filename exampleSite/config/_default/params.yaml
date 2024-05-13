@@ -8,11 +8,11 @@ hb:
     brand: Gaming Nepal # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
-    socials:
-      github: nepalgg
-      # twitter: razonyang
-      rss: true
-      mastodon: https://mstdn.games/@nepal
+    # socials:
+    #   github: nepalgg
+    #   # twitter: razonyang
+    #   rss: true
+    #   mastodon: https://mstdn.games/@nepal
   footer:
     powered_by: false
     # see https://hbstack.dev/en/docs/modules/socials/.
@@ -20,6 +20,7 @@ hb:
       _color: true # when false, remove the color of social icons.
       github: nepalgg
       twitter: nepalgg
+      matrix: https://matrix.to/#/#nepal:kde.org
       rss: true
       mastodon: https://mstdn.games/@nepal
   
@@ -41,23 +42,23 @@ hb:
         - telegram
         - whatsapp
     sidebar:
-      sticky: true # set it to false to not stick the sidebar.
-      width: .35 # the width of sidebar.
+      sticky: false # set it to false to not stick the sidebar.
+      width: .25 # the width of sidebar.
       position: start # the sidebar position: start (left) or end (right).
       profile:
         # title: Profile title other than site title.
         # description: Profile description other than site description.
-        avatar_size: 250
-        company:
+        avatar_size: 200
+        # company:
         location: Nepal
-        socials:
-          github: nepalgg
-          mastodon: https://mstdn.games/@nepal
-          rss: true
+        # socials:
+        #   github: nepalgg
+        #   mastodon: https://mstdn.games/@nepal
+        #   rss: true
       posts:
         recent_count: 5 # the number of recent posts.
         featured_count: 5 # the number of featured posts.
-        style: pills # pills, tabs or underline.
+        style: tabs # pills, tabs or underline.
         list_style: slide # slide or vertical.
       taxonomies:
         count: true # whether to show the number of posts associated to the item.

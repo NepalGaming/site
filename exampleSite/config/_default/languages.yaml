@@ -4,6 +4,14 @@ en:
 ne:
   languageName: नेपाली
   title: डिजिटल खेलकूद समुदाय
+  params:
+    description: नेपाली डिजिटल खेलकूद समुदाय
+    hb:
+      blog:
+        sidebar:
+          profile:
+            location: नेपाल
+
   weight: 2
 zh-hans:
     disabled: true

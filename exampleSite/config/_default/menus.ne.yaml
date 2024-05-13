@@ -10,23 +10,23 @@ main:
   - name: सहायोग
     identifier: support
     weight: 100
-    url: https://github.com/nepalgg/site
+    url: https://github.com/orgs/nepalgg/discussions
     params:
       header: सहायोग समुदाय
       icon:
         vendor: font-awesome-solid
         name: headset
 
-  - name: सहायोग सामग्री
-    identifier: support-docs
-    parent: support
-    url: https://github.com/nepalgg
-    weight: 1
-    params:
-      icon:
-        vendor: bs
-        name: book
-      description: प्रयोगकर्ता दस्तावेज।
+  # - name: सहायोग सामग्री
+  #   identifier: support-docs
+  #   parent: support
+  #   url: https://github.com/orgs/nepalgg/discussions
+  #   weight: 1
+  #   params:
+  #     icon:
+  #       vendor: bs
+  #       name: book
+  #     description: प्रयोगकर्ता दस्तावेज।
 
   - name: GitHub
     parent: support
@@ -40,7 +40,7 @@ main:
 
   - name: चर्चा
     parent: support
-    url: https://github.com/nepalgg/site/discussions
+    url: https://github.com/orgs/nepalgg/discussions
     weight: 3
     params:
       icon:
@@ -51,7 +51,7 @@ main:
 
   - name: त्रुटिहरू प्रतिक्रिया
     parent: support
-    url: https://github.com/nepalgg/site/issues/new
+    url: https://github.com/orgs/nepalgg/discussions/new?category=issues-and-bugs
     weight: 4
     params:
       icon:
@@ -62,7 +62,7 @@ main:
 
   - name: नयाँ विशेषताहरूको प्रस्ताव
     parent: support
-    url: https://github.com/nepalgg/site/issues/new
+    url: https://github.com/orgs/nepalgg/discussions/new?category=ideas
     weight: 5
     params:
       icon:

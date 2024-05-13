@@ -1,5 +1,5 @@
 ---
-title: Nepal.gg Authors
+title: Admin
 description: Administrators or editors from the Nepal.gg community
 images:
   - /images/nepali-gaming-commuity.jpg
