@@ -9,6 +9,5 @@
             "path": "[[workspace]]/exampleSite/content/"
         }
     ],
-    "frontMatter.git.enabled": true,
     "[markdown]": {}
 }
