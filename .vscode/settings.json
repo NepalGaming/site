@@ -6,7 +6,7 @@
     "frontMatter.content.pageFolders": [
         {
             "title": "content",
-            "path": "[[workspace]]/exampleSite/content/blog"
+            "path": "[[workspace]]/exampleSite/content/"
         }
     ],
     "frontMatter.git.enabled": true,
