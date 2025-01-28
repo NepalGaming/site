@@ -19,9 +19,9 @@ hb:
     socials:
       _color: true # when false, remove the color of social icons.
       github: nepalgg
-      twitter: nepalgg
-      matrix: https://matrix.to/#/#nepal:kde.org
+      discord: https://discord.gg/AMRtR3t6
       rss: true
+      matrix: https://matrix.to/#/#nepal:kde.org
       mastodon: https://mstdn.games/@nepal
   
   blog:
