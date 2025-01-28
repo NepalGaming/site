@@ -3,14 +3,9 @@ module github.com/nepalgg/site
 go 1.22.1
 
 require (
-<<<<<<< HEAD
-	github.com/GoogleChrome/workbox v7.1.0+incompatible // indirect
-	github.com/KaTeX/KaTeX v0.16.10 // indirect
-	github.com/desandro/masonry v4.2.2+incompatible // indirect
-=======
 	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
 	github.com/KaTeX/KaTeX v0.16.21 // indirect
->>>>>>> upstream
+	github.com/desandro/masonry v4.2.2+incompatible // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/back-to-top v0.2.0 // indirect
@@ -65,23 +60,13 @@ require (
 	github.com/hbstack/search v0.2.2 // indirect
 	github.com/hbstack/slide v0.4.0 // indirect
 	github.com/hbstack/snackbar v0.1.2 // indirect
-<<<<<<< HEAD
-	github.com/hbstack/social-share-buttons v0.2.2 // indirect
-	github.com/hbstack/socials v0.16.0 // indirect
-	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
-	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
-	github.com/hbstack/theme-cards v0.1.1 // indirect
-	github.com/hbstack/toc-scrollspy v0.1.0 // indirect
-	github.com/henrygd/bigger-picture v1.1.17 // indirect
-	github.com/hugomods/ascii v0.1.0 // indirect
-=======
+	github.com/hbstack/social-share-buttons v0.5.0 //indirect
 	github.com/hbstack/socials v0.17.2 // indirect
 	github.com/hbstack/syntax-highlighting v0.2.1 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.2 // indirect
 	github.com/hbstack/theme-cards v0.1.1 // indirect
 	github.com/hbstack/toc-scrollspy v0.2.0 // indirect
 	github.com/henrygd/bigger-picture v1.1.19 // indirect
->>>>>>> upstream
 	github.com/hugomods/base v0.7.2 // indirect
 	github.com/hugomods/bootstrap v0.23.0 // indirect
 	github.com/hugomods/code-block-panel v0.8.0 // indirect
@@ -96,18 +81,13 @@ require (
 	github.com/hugomods/icons/vendors/font-awesome v0.6.12 // indirect
 	github.com/hugomods/icons/vendors/simple-icons v1.1.1 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
-<<<<<<< HEAD
-	github.com/hugomods/images v0.11.0 // indirect
-	github.com/hugomods/katex v0.3.2 // indirect
-	github.com/hugomods/masonry-js v0.1.0 // indirect
-	github.com/hugomods/mermaid v0.1.1 // indirect
-=======
 	github.com/hugomods/images v0.11.2 // indirect
 	github.com/hugomods/katex v0.3.6 // indirect
+	github.com/hugomods/masonry-js v0.1.0 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
->>>>>>> upstream
 	github.com/hugomods/pwa v0.9.0 // indirect
 	github.com/hugomods/search v0.19.0 // indirect
+	github.com/hugomods/search-index v0.1.1 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.1 // indirect
 	github.com/hugomods/seo/modules/base v0.1.3 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.2 // indirect
