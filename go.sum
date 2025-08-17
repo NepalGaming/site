@@ -64,6 +64,9 @@ github.com/hbstack/blog v0.40.0/go.mod h1:xFBVf4/UOvkqPoRYeUoJqwxx8/0SrWlijQwgVL
 github.com/hbstack/blog v0.40.1/go.mod h1:0hnPIZ2nusfXE4jkYQCXNLv7eXud4CBea3ymc8w3JAM=
 github.com/hbstack/blog v0.40.2/go.mod h1:iU3JUXZDCmd2zcLDYlrFTCfNRFx3h2QXGPt2xfzjwXg=
 github.com/hbstack/blog v0.40.3/go.mod h1:cY11zRGUms24avT5c2OwKYBgun858LPVeKwM758NtH0=
+github.com/hbstack/blog v0.41.0/go.mod h1:qJY+oyrJQlLv93LMvweskitIrI8Bv2Mhczpq61BwmzM=
+github.com/hbstack/blog v0.42.0/go.mod h1:qJY+oyrJQlLv93LMvweskitIrI8Bv2Mhczpq61BwmzM=
+github.com/hbstack/blog v0.42.1/go.mod h1:qJY+oyrJQlLv93LMvweskitIrI8Bv2Mhczpq61BwmzM=
 github.com/hbstack/carousel v0.2.4 h1:OkMRqyhklJBMbOXo8p/dsS+iQVQTrMUI7Jfm13Js3L4=
 github.com/hbstack/carousel v0.2.4/go.mod h1:AchKlXiqYNZouE3Ee/VSSQle2FUZV5CJgTnPBFI7Gj0=
 github.com/hbstack/carousel v0.2.5 h1:+N4U9wvCvd8gWI0anyNVqelkrDqsWI/jDc8LG/KvB1E=
@@ -148,6 +151,7 @@ github.com/hbstack/socials v0.17.0/go.mod h1:bGfRrGxVWfvwseOzJ+13vHhHpZ+e+f2z8k4
 github.com/hbstack/socials v0.17.1/go.mod h1:SxsgrMkupTV3fHpGpWZQ7HAaeGUvENZPW5z+0ywJ5ao=
 github.com/hbstack/socials v0.17.2/go.mod h1:SxsgrMkupTV3fHpGpWZQ7HAaeGUvENZPW5z+0ywJ5ao=
 github.com/hbstack/socials v0.18.0/go.mod h1:iZvyHnOhH2ZYGvUnO6QomRiCwirCB9CtxUbsHsJloL8=
+github.com/hbstack/socials v0.19.0/go.mod h1:sUCnojrpGHuEnUOva8vHf3CBinJhpftcQemOCUtxY00=
 github.com/hugomods/base v0.4.0 h1:jzBIJpqDx8aLAlNe/zF1xbefu1XYxumZc39tOO0ZjSw=
 github.com/hugomods/base v0.4.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
 github.com/hugomods/base v0.4.1/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
@@ -248,6 +252,8 @@ github.com/hugomods/images v0.11.0/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqO
 github.com/hugomods/images v0.11.2/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
 github.com/hugomods/images v0.12.0/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
 github.com/hugomods/images v0.12.1/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
+github.com/hugomods/images v0.12.2/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
+github.com/hugomods/images v0.12.3/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
 github.com/hugomods/seo/modules/base v0.1.0 h1:ZEkWuYeRJeQakBkBThO3N3lmGzOZoPixs4pDugJXfJk=
 github.com/hugomods/seo/modules/base v0.1.0/go.mod h1:qfm1Vga0eGxL+Szgz8Jopm+NtJ5PGov2a2dikTg1qSg=
 github.com/hugomods/seo/modules/base v0.1.1 h1:63exSBQ+CuyN+GEpbCQgTWgHcuiHia2Ox7nwbhsWSDU=
@@ -302,6 +308,7 @@ github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspT
 github.com/twbs/bootstrap v5.3.4+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.5+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.6+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/bootstrap v5.3.7+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.2 h1:I0zuO+pk4F1jKGautLPFUQyU2uQyir0GBGb4ArpXZLg=
 github.com/twbs/icons v1.11.2/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
