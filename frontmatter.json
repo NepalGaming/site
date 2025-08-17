@@ -46,13 +46,20 @@
           "name": "series",
           "type": "choice",
           "choices": [
-            "Examples"
+            "Gaming News",
+            "Announcements"
           ]
         },
         {
           "title": "categories",
           "name": "categories",
-          "type": "categories"
+          "type": "categories",
+          "choices": [
+            "News",
+            "Nepal",
+            "Updates",
+            "Events"
+          ]
         },
         {
           "title": "tags",
@@ -64,7 +71,7 @@
           "name": "images",
           "type": "choice",
           "choices": [
-            "https://example-images.razonyang.com/math.webp?width=1920&height=1280"
+            ""
           ]
         },
         {
@@ -72,8 +79,7 @@
           "name": "authors",
           "type": "choice",
           "choices": [
-            "HB",
-            "HugoMods"
+            "Nepal Gaming"
           ]
         }
       ]
