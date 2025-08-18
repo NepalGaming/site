@@ -4,7 +4,7 @@ date: 2025-08-17T05:59:10.732Z
 draft: false
 description: गेमिङ् पीसी र ल्यापटपको लागत पहुँचभन्दा बाहिर भएपछि नेपालमा गेमिङको दृश्यमा मोबाइल गेमिङले पकड बनाएको छ।
 noindex: false
-featured: false
+featured: true
 pinned: false
 series: ""
 categories:
