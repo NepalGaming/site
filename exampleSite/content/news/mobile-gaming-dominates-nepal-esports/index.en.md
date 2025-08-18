@@ -1,7 +1,7 @@
 ---
 title: Mobile gaming dominates Nepal's gaming scene
 date: 2025-08-17T05:59:10.732Z
-draft: true
+draft: false
 description: With the cost of gaming PC and Laptops out of reach, mobile gaming has taken a hold in the gaming scene of Nepal
 noindex: false
 featured: false
