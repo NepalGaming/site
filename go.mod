@@ -10,7 +10,7 @@ require (
 	github.com/hbstack/carousel v0.2.7 // indirect
 	github.com/hbstack/footer v0.4.1 // indirect
 	github.com/hbstack/hb v0.16.2 // indirect
-	github.com/hbstack/header v0.16.6 // indirect
+	github.com/hbstack/header v0.16.7 // indirect
 	github.com/hbstack/pagination v0.8.0 // indirect
 	github.com/hbstack/socials v0.19.0 // indirect
 	github.com/hugomods/base v0.7.3 // indirect
@@ -22,6 +22,6 @@ require (
 	github.com/hugomods/images v0.12.3 // indirect
 	github.com/hugomods/seo/modules/base v0.1.3 // indirect
 	github.com/hugomods/simple-icons v13.21.0+incompatible // indirect
-	github.com/twbs/bootstrap v5.3.7+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 	github.com/twbs/icons v1.13.1 // indirect
 )
