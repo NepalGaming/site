@@ -23,7 +23,7 @@ hb:
       rss: true
       matrix: https://matrix.to/#/#nepal:kde.org
       mastodon: https://mstdn.games/@nepal
-  
+
   blog:
     list_cols_md: 2
     list_cols_lg: 3
@@ -43,12 +43,13 @@ hb:
         - whatsapp
     sidebar:
       sticky: false # set it to false to not stick the sidebar.
-      width: .25 # the width of sidebar.
+      width: .15 # the width of sidebar.
+      max_width: 200px
       position: start # the sidebar position: start (left) or end (right).
       profile:
         # title: Profile title other than site title.
         # description: Profile description other than site description.
-        avatar_size: 200
+        avatar_size: 100
         # company:
         location: Nepal
         # socials:
