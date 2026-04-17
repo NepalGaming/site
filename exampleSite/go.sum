@@ -4,6 +4,7 @@ github.com/GoogleChrome/workbox v7.1.0+incompatible/go.mod h1:dyEoGLpJeO43pUVJb+
 github.com/GoogleChrome/workbox v7.2.0+incompatible/go.mod h1:dyEoGLpJeO43pUVJb+nNNr1WRgoF81hNEl4UGLV+yow=
 github.com/GoogleChrome/workbox v7.3.0+incompatible h1:P0VEW4ZF9li7dLLOsB3wknFhVBym05A7td3x/qWFTZM=
 github.com/GoogleChrome/workbox v7.3.0+incompatible/go.mod h1:dyEoGLpJeO43pUVJb+nNNr1WRgoF81hNEl4UGLV+yow=
+github.com/GoogleChrome/workbox v7.4.0+incompatible h1:/XRSe+BKNV6b+vh4ROaR0QSPP1Zmgf28wQCynTusg9s=
 github.com/GoogleChrome/workbox v7.4.0+incompatible/go.mod h1:dyEoGLpJeO43pUVJb+nNNr1WRgoF81hNEl4UGLV+yow=
 github.com/KaTeX/KaTeX v0.16.9 h1:4VYWM2nMSCfOPi63mTRJYQs0UmZPGTx3noiQ/vJu9Rk=
 github.com/KaTeX/KaTeX v0.16.9/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
@@ -39,6 +40,7 @@ github.com/KaTeX/KaTeX v0.16.41/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAz
 github.com/KaTeX/KaTeX v0.16.42/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/KaTeX/KaTeX v0.16.43/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/KaTeX/KaTeX v0.16.44/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
+github.com/KaTeX/KaTeX v0.16.45 h1:1lI59t4uqjuGe0a+343oj99cHqP+2YQxPcpbTk/n6YE=
 github.com/KaTeX/KaTeX v0.16.45/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/desandro/masonry v4.2.2+incompatible h1:4LI69kwq5DJSF9jhHVGfCw+q2Nt3IgJ0KzEp19Z3YiA=
 github.com/desandro/masonry v4.2.2+incompatible/go.mod h1:4P4Or5YZcNuAtGW3JOYLTrmi+ZyqhCPj7xTgradMEVU=
@@ -46,6 +48,7 @@ github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T7SFR8ZClWvKZPmmUxBaltkoXvnWlZZcSnYA=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400 h1:L6+F22i76xmeWWwrtijAhUbf3BiRLmpO5j34bgl1ggU=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400/go.mod h1:uekq1D4ebeXgduLj8VIZy8TgfTjrLdSl6nPtVczso78=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800 h1:j5myhhzYwIHTr5ctK96Elfgp5uRROvrlTzYwwe1nF8o=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800/go.mod h1:P5GGyhdxi00C5zW7vkRo/IS532gZY/YS2TS395Xaxho=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
@@ -123,6 +126,7 @@ github.com/hbstack/blog v0.40.3/go.mod h1:cY11zRGUms24avT5c2OwKYBgun858LPVeKwM75
 github.com/hbstack/blog v0.41.0/go.mod h1:qJY+oyrJQlLv93LMvweskitIrI8Bv2Mhczpq61BwmzM=
 github.com/hbstack/blog v0.42.0/go.mod h1:qJY+oyrJQlLv93LMvweskitIrI8Bv2Mhczpq61BwmzM=
 github.com/hbstack/blog v0.42.1/go.mod h1:qJY+oyrJQlLv93LMvweskitIrI8Bv2Mhczpq61BwmzM=
+github.com/hbstack/blog v0.42.2 h1:o3shf9REydwxtdwUuQzTFzCHmu/eiEpDyhtqxyM8mto=
 github.com/hbstack/blog v0.42.2/go.mod h1:PvIJB81Kgn9BAwDwObHGEExxwgUkpie8RZUnuK/xO8g=
 github.com/hbstack/blog/modules/breadcrumb v0.1.22 h1:NDcjR5805LBDRcLaDF12VAIAJiRqCL/e/GX+1DE7O0k=
 github.com/hbstack/blog/modules/breadcrumb v0.1.22/go.mod h1:abqj7FTsHihbv3B2szGm4YmVGVZWzWg2VVA5ZhqUyKY=
@@ -245,6 +249,7 @@ github.com/hbstack/docs v0.22.0/go.mod h1:hAPrZzKLNTYYzcDDpKoaskXaQLzRHz4rgM0ajF
 github.com/hbstack/docs v0.23.0/go.mod h1:8MmOryl2Ko6LRXzcRpHC8Qg5InSx958JXTZ2Rk05EhI=
 github.com/hbstack/docs v0.23.1 h1:dgo+skm52E4l748mWBCVL15yfPSx3rFQt195ETOPtxI=
 github.com/hbstack/docs v0.23.1/go.mod h1:3+Oga44hHLytYYkYimHqC09uOKSno75S1vzLzp+yL3M=
+github.com/hbstack/docs v0.24.0 h1:/zLFE+pSOhncUaGHXTQIEAuIJmAeH97CEL/h1t4aLps=
 github.com/hbstack/docs v0.24.0/go.mod h1:CmLUoVx7U90sozuS/Zlahgyh1MQ+UhHeGd+wcldTzfY=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9 h1:znf/33KfQFZXOXVKezdksy/euM0FDnoNKeKSyw3SwCk=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9/go.mod h1:vpQYRcZmRTqYpVb7x7sOgw13MxBuNgUt82wQDz6ZtZU=
@@ -350,6 +355,7 @@ github.com/hbstack/header v0.16.4/go.mod h1:4f3Nhslt+UQ1Fo82HuspQO7jLJ/UrZ8GgDKI
 github.com/hbstack/header v0.16.5/go.mod h1:ZfeQNeNWaBeGPBZHtbRz2W9IWkmIoMrpOXoDsoYa/Gg=
 github.com/hbstack/header v0.16.6 h1:t8wUlpXAo7FTYutk1run6Slb8AqfJ3aNlFerZLy3FAw=
 github.com/hbstack/header v0.16.6/go.mod h1:ZfeQNeNWaBeGPBZHtbRz2W9IWkmIoMrpOXoDsoYa/Gg=
+github.com/hbstack/header v0.16.7 h1:iqeHhbo/b4AYhkvzvU63DZRwGPIW/LOKwejDd/hqqlM=
 github.com/hbstack/header v0.16.7/go.mod h1:H9BH5lD/s0VYKwqj9l6rxSyDwG4bJg73MSBftVS5aAc=
 github.com/hbstack/header/modules/language-picker v0.1.23 h1:apumx/b8JvN3BmDH4GwY2OOZbsokeLOGsNKtbibWbMU=
 github.com/hbstack/header/modules/language-picker v0.1.23/go.mod h1:rLN2zbcsGXWsyOfVedSEZk8V7N4/Nk/iyuVm8wjBkuM=
@@ -386,6 +392,7 @@ github.com/hbstack/header/modules/theme-toggle v0.5.0/go.mod h1:UDWiCLYAWmna+M4U
 github.com/hbstack/header/modules/theme-toggle v0.5.1/go.mod h1:EHXmyYT45ZhcUIXdL45lRG3HpxodbHSr4KpD9Ynhzfg=
 github.com/hbstack/header/modules/theme-toggle v0.5.2 h1:i04Ti4LdVFXXn9Qh7V341NNYmjvBpFwlXKfSc3Hv1Z8=
 github.com/hbstack/header/modules/theme-toggle v0.5.2/go.mod h1:5WCCiPjN34SYO4CjhMlGgxv2N3r4NnjFLN/8PgiAeEc=
+github.com/hbstack/header/modules/theme-toggle v0.5.3 h1:QAfchxEHlk85UiNMxZtvoXBp71/ldL1KPzaq2TTyzDE=
 github.com/hbstack/header/modules/theme-toggle v0.5.3/go.mod h1:q5LlQBGgO1m2uSlHbJSnBYnuf1Lox5uYURSux9nYVtg=
 github.com/hbstack/heading-sign v0.1.3 h1:bkyBAwTETrbLqPBM89EuSscgLt2MOrmEPSeooeR0Jfc=
 github.com/hbstack/heading-sign v0.1.3/go.mod h1:uR6DdjYDoLDFanc8kSglEe/08GyNyQBmyNEJ6Z1KRAg=
@@ -449,6 +456,7 @@ github.com/hbstack/socials v0.17.1/go.mod h1:SxsgrMkupTV3fHpGpWZQ7HAaeGUvENZPW5z
 github.com/hbstack/socials v0.17.2/go.mod h1:SxsgrMkupTV3fHpGpWZQ7HAaeGUvENZPW5z+0ywJ5ao=
 github.com/hbstack/socials v0.18.0 h1:ESA5/lPEoFpzprJ6x++FrwX8ajo68rWpSdYJrPE9yLY=
 github.com/hbstack/socials v0.18.0/go.mod h1:iZvyHnOhH2ZYGvUnO6QomRiCwirCB9CtxUbsHsJloL8=
+github.com/hbstack/socials v0.19.0 h1:d4cs1bObs0L+7iNel0X5N87MBY0wBiA02SbaVyi2klg=
 github.com/hbstack/socials v0.19.0/go.mod h1:sUCnojrpGHuEnUOva8vHf3CBinJhpftcQemOCUtxY00=
 github.com/hbstack/syntax-highlighting v0.1.0 h1:WxdhNgCktllNKQDqu1BmLmg9dsi77/dXIlcdQ8KZZI0=
 github.com/hbstack/syntax-highlighting v0.1.0/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
@@ -477,6 +485,7 @@ github.com/henrygd/bigger-picture v1.1.17/go.mod h1:LayqbjDNNsZH+ZXklmjBe5T02qxp
 github.com/henrygd/bigger-picture v1.1.18/go.mod h1:LayqbjDNNsZH+ZXklmjBe5T02qxpH9Cah/ygAraOBIk=
 github.com/henrygd/bigger-picture v1.1.19 h1:fv3S1wlW5L9XF01wOHGZmwPn3vMNgQOwwYMhTTHhHic=
 github.com/henrygd/bigger-picture v1.1.19/go.mod h1:LayqbjDNNsZH+ZXklmjBe5T02qxpH9Cah/ygAraOBIk=
+github.com/henrygd/bigger-picture v1.1.20 h1:G5ljcqT0XAwO3RXIFjQWn0Gpq4Frte/io//agR1E2H0=
 github.com/henrygd/bigger-picture v1.1.20/go.mod h1:LayqbjDNNsZH+ZXklmjBe5T02qxpH9Cah/ygAraOBIk=
 github.com/hugomods/ascii v0.1.0 h1:c7E0nV3z7PiNchGXkIuFBWsKym17k0iOo+o6Bp6bw30=
 github.com/hugomods/ascii v0.1.0/go.mod h1:vvC2YaCuNBWl/8F/mfk9vMxVpwXluH80cROV9TDpmLk=
@@ -519,6 +528,7 @@ github.com/hugomods/bootstrap v0.22.3/go.mod h1:OpcaTH8dMsWqCeSSJ8IGqjEvK2zghLm8
 github.com/hugomods/bootstrap v0.23.0/go.mod h1:eL5Y6abDndTt/LZu1VtgprvkdZgsV7/d3jpSoCcDkKQ=
 github.com/hugomods/bootstrap v0.24.1 h1:HUJWnN5duZV4MtcwALvcQcMdU/o2pssJfHPEsq0Qrkk=
 github.com/hugomods/bootstrap v0.24.1/go.mod h1:lCGwW9J0KeuRzlSWdJTHM9ptS9XYVGVtSAGE2xAL73Y=
+github.com/hugomods/bootstrap v0.24.2 h1:OGJmqzQMlEstObnaKIpvwh4l4F2Ot7UdxTNyxTO9jiE=
 github.com/hugomods/bootstrap v0.24.2/go.mod h1:GKP0KV5Yc0d1JmdKjKHL6SpvWml/hk3Pxnq6Trh1JYQ=
 github.com/hugomods/code-block-panel v0.5.0 h1:IjlVQZJccs02x0TaNxsLR4S2PRyzy3tBXE3nFT2vJxA=
 github.com/hugomods/code-block-panel v0.5.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
@@ -527,6 +537,7 @@ github.com/hugomods/code-block-panel v0.7.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl
 github.com/hugomods/code-block-panel v0.7.1/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
 github.com/hugomods/code-block-panel v0.8.0 h1:ICJrcEx85oZzLdR1Hlf77osxRU04LlPigTRhp+anNFE=
 github.com/hugomods/code-block-panel v0.8.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
+github.com/hugomods/code-block-panel v0.9.0 h1:rIyoZQRsW7OCprinbZ93mC8D7x/UdciHmedb/JMIeKM=
 github.com/hugomods/code-block-panel v0.9.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
 github.com/hugomods/font-awesome v6.4.2+incompatible h1:oTdZYvNEXRuocAaGTa8f6ZET9e+cjD8JXpZRG7dx8Qw=
 github.com/hugomods/font-awesome v6.4.2+incompatible/go.mod h1:C2wW6xDvHkcMlJMVTPQ+Npt+rO0OGv13xT1iyll2z2Q=
@@ -553,6 +564,7 @@ github.com/hugomods/hugopress v0.4.0/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39W
 github.com/hugomods/hugopress v0.4.1/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
 github.com/hugomods/hugopress v0.5.0 h1:eQHg1aKnc5StGFnV5H0BORhE0UmHYpaWHnX9QNseHrw=
 github.com/hugomods/hugopress v0.5.0/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
+github.com/hugomods/hugopress v0.5.2 h1:wnqeqaJ38CAZx9/yuvUZqrgclsnMA+dTqihbP28vzeU=
 github.com/hugomods/hugopress v0.5.2/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
 github.com/hugomods/i18n-js v0.2.1 h1:uIUl4LiYdwo8IK08oq7OmluYLedL21Wc9Rig1taDTSI=
 github.com/hugomods/i18n-js v0.2.1/go.mod h1:eJfxjgI2CQsNA1/ReIVvr5127DftUKcbHd2A2SQmDvU=
@@ -818,6 +830,7 @@ github.com/krisk/Fuse v7.0.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbd
 github.com/krisk/Fuse v7.1.0+incompatible h1:WKrE7/HvvQQnysvOcOXk+KDlKoH+Z6S0KJcAtbglvXs=
 github.com/krisk/Fuse v7.1.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/krisk/Fuse v7.2.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
+github.com/krisk/Fuse v7.3.0+incompatible h1:ogV8HLtPHIP4SppKRkBPtHPv02HkToqKpQMq9hKUGw8=
 github.com/krisk/Fuse v7.3.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/twbs/bootstrap v5.3.2+incompatible h1:tuiO5acc6xnZUR77Sbi5aKWXxjYxbmsSbJwYrhAKoQQ=
 github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
@@ -827,6 +840,7 @@ github.com/twbs/bootstrap v5.3.5+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspT
 github.com/twbs/bootstrap v5.3.6+incompatible h1:efmXVyq839m5QQ0+JBUdQQ1TrmoBqvQ5kRhUueKsH+4=
 github.com/twbs/bootstrap v5.3.6+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.7+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/bootstrap v5.3.8+incompatible h1:eK1fsXP7R/FWFt+sSNmmvUH9usPocf240nWVw7Dh02o=
 github.com/twbs/bootstrap v5.3.8+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.2 h1:I0zuO+pk4F1jKGautLPFUQyU2uQyir0GBGb4ArpXZLg=
 github.com/twbs/icons v1.11.2/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
