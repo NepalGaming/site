@@ -109,7 +109,7 @@ footer:
       name: arrow-down-circle-fill
       vendor: bootstrap
   parent: a
-  url: 'https://for.nepal.gg'
+  url: '#a-3'
 - identifier: b
   weight: 2
   name: Resources
@@ -121,7 +121,7 @@ footer:
       name: display
       vendor: bootstrap
   parent: b
-  url: 'https://wiki.nepal.gg'
+  url: 'https://for.nepal.gg'
 - name: Wiki
   weight: 21
   params:
@@ -130,7 +130,7 @@ footer:
       name: book-half
       vendor: bootstrap
   parent: b
-  url: '#b-2'
+  url: 'https://wiki.nepal.gg'
 - name: Blog
   weight: 22
   params:
