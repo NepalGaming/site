@@ -109,11 +109,11 @@ footer:
       name: arrow-down-circle-fill
       vendor: bootstrap
   parent: a
-  url: '#a-3'
+  url: 'https://for.nepal.gg'
 - identifier: b
   weight: 2
   name: Resources
-- name: Games
+- name: Forum
   weight: 20
   params:
     icon:
@@ -121,7 +121,7 @@ footer:
       name: display
       vendor: bootstrap
   parent: b
-  url: '#b-1'
+  url: 'https://wiki.nepal.gg'
 - name: Wiki
   weight: 21
   params:
