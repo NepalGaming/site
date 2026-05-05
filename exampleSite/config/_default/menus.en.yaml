@@ -6,12 +6,12 @@ main:
       icon:
         vendor: fas
         name: blog
-  - name: Support
-    identifier: support
+  - name: Forum
+    identifier: Forum
     weight: 100
-    url: https://github.com/nepalgg
+    url: https://for.nepal.gg
     params:
-      header: The HB support community.
+      header: Nepal Gaming Community Forum.
       icon:
         vendor: font-awesome-solid
         name: headset
@@ -27,58 +27,58 @@ main:
   #       className: text-primary
   #     description: The documentation.
 
-  - name: GitHub
-    parent: support
-    url: https://github.com/nepalgg
-    weight: 11
-    params:
-      icon:
-        vendor: fab
-        name: github
-      description: The code repository.
+  # - name: GitHub
+  #   parent: support
+  #   url: https://github.com/nepalgg
+  #   weight: 11
+  #   params:
+  #     icon:
+  #       vendor: fab
+  #       name: github
+  #     description: The code repository.
 
-  - name: Discussion
-    parent: support
-    url: https://github.com/orgs/nepalgg/discussions
-    weight: 12
-    params:
-      icon:
-        vendor: font-awesome-regular
-        name: comments
-        color: green
-      description: Ask questions and share your ideas.
+  # - name: Discussion
+  #   parent: support
+  #   url: https://github.com/orgs/nepalgg/discussions
+  #   weight: 12
+  #   params:
+  #     icon:
+  #       vendor: font-awesome-regular
+  #       name: comments
+  #       color: green
+  #     description: Ask questions and share your ideas.
 
-  - name: Bug Report
-    parent: support
-    url: https://github.com/orgs/nepalgg/discussions/new?category=issues-and-bugs
-    weight: 13
-    params:
-      icon:
-        vendor: font-awesome-solid
-        name: bug
-        color: red
-      description: Tell us about a bug or issue.
+  # - name: Bug Report
+  #   parent: support
+  #   url: https://github.com/orgs/nepalgg/discussions/new?category=issues-and-bugs
+  #   weight: 13
+  #   params:
+  #     icon:
+  #       vendor: font-awesome-solid
+  #       name: bug
+  #       color: red
+  #     description: Tell us about a bug or issue.
 
-  - name: Feature Request
-    parent: support
-    url: https://github.com/orgs/nepalgg/discussions/new?category=ideas
-    weight: 14
-    params:
-      icon:
-        vendor: font-awesome-regular
-        name: lightbulb
-        color: orange
-      description: Suggest new or updated features.
+  # - name: Feature Request
+  #   parent: support
+  #   url: https://github.com/orgs/nepalgg/discussions/new?category=ideas
+  #   weight: 14
+  #   params:
+  #     icon:
+  #       vendor: font-awesome-regular
+  #       name: lightbulb
+  #       color: orange
+  #     description: Suggest new or updated features.
   
-  - name: Mastodon
-    parent: support
-    url: https://mstdn.games/@nepal
-    weight: 16
-    params:
-      icon:
-        vendor: simple
-        name: mastodon
-      description: Follow us on Mastodon to get latest updates.
+  # - name: Mastodon
+  #   parent: support
+  #   url: https://mstdn.games/@nepal
+  #   weight: 16
+  #   params:
+  #     icon:
+  #       vendor: simple
+  #       name: mastodon
+  #     description: Follow us on Mastodon to get latest updates.
 footer:
 - identifier: a
   weight: 1
