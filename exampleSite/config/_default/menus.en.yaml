@@ -14,7 +14,7 @@ main:
       header: Nepal Gaming Community Forum.
       icon:
         vendor: font-awesome-solid
-        name: user-friends
+        name: users
 
   # - name: Documentation
   #   parent: support
