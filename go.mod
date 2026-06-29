@@ -4,8 +4,6 @@ go 1.21.3
 
 toolchain go1.22.0
 
-replace github.com/hbstack/site/common => ./common
-
 require (
 	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
 	github.com/KaTeX/KaTeX v0.16.22 // indirect
@@ -84,7 +82,6 @@ require (
 	github.com/hbstack/scrollbar v0.1.0 // indirect
 	github.com/hbstack/search v0.2.2 // indirect
 	github.com/hbstack/shortcodes v0.2.0 // indirect
-	github.com/hbstack/site/common v0.0.0-00010101000000-000000000000 // indirect
 	github.com/hbstack/slide v0.4.1 // indirect
 	github.com/hbstack/snackbar v0.1.2 // indirect
 	github.com/hbstack/social-share-buttons v0.6.0 // indirect
