@@ -6,6 +6,7 @@ github.com/GoogleChrome/workbox v7.3.0+incompatible h1:P0VEW4ZF9li7dLLOsB3wknFhV
 github.com/GoogleChrome/workbox v7.3.0+incompatible/go.mod h1:dyEoGLpJeO43pUVJb+nNNr1WRgoF81hNEl4UGLV+yow=
 github.com/GoogleChrome/workbox v7.4.0+incompatible h1:/XRSe+BKNV6b+vh4ROaR0QSPP1Zmgf28wQCynTusg9s=
 github.com/GoogleChrome/workbox v7.4.0+incompatible/go.mod h1:dyEoGLpJeO43pUVJb+nNNr1WRgoF81hNEl4UGLV+yow=
+github.com/GoogleChrome/workbox v7.4.1+incompatible h1:3KCQKmZJQO+ZjZ2Cz8TCmVgRNK5eAlR0l3rnvPs45GA=
 github.com/GoogleChrome/workbox v7.4.1+incompatible/go.mod h1:dyEoGLpJeO43pUVJb+nNNr1WRgoF81hNEl4UGLV+yow=
 github.com/KaTeX/KaTeX v0.16.9 h1:4VYWM2nMSCfOPi63mTRJYQs0UmZPGTx3noiQ/vJu9Rk=
 github.com/KaTeX/KaTeX v0.16.9/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
@@ -45,6 +46,7 @@ github.com/KaTeX/KaTeX v0.16.45 h1:1lI59t4uqjuGe0a+343oj99cHqP+2YQxPcpbTk/n6YE=
 github.com/KaTeX/KaTeX v0.16.45/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/KaTeX/KaTeX v0.16.46/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/KaTeX/KaTeX v0.16.47/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
+github.com/KaTeX/KaTeX v0.17.0 h1:1kWgzdCxWW0OVclbQ8d0Htz+rWH8XWwOBX9cllsMkUo=
 github.com/KaTeX/KaTeX v0.17.0/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/desandro/masonry v4.2.2+incompatible h1:4LI69kwq5DJSF9jhHVGfCw+q2Nt3IgJ0KzEp19Z3YiA=
 github.com/desandro/masonry v4.2.2+incompatible/go.mod h1:4P4Or5YZcNuAtGW3JOYLTrmi+ZyqhCPj7xTgradMEVU=
@@ -838,6 +840,7 @@ github.com/krisk/Fuse v7.3.0+incompatible h1:ogV8HLtPHIP4SppKRkBPtHPv02HkToqKpQM
 github.com/krisk/Fuse v7.3.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/krisk/Fuse v7.4.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/krisk/Fuse v7.4.1+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
+github.com/krisk/Fuse v7.4.2+incompatible h1:HY87e/3XebPgJEJBi55xY3StDya0kknq3h1zmNiggsQ=
 github.com/krisk/Fuse v7.4.2+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/twbs/bootstrap v5.3.2+incompatible h1:tuiO5acc6xnZUR77Sbi5aKWXxjYxbmsSbJwYrhAKoQQ=
 github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
