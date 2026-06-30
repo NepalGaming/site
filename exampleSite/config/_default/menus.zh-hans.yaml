@@ -73,7 +73,7 @@ main:
   
   - name: Mastodon
     parent: support
-    url: https://techhub.social/@hbstack
+    url: https://mstdn.games/@nepal
     weight: 6
     params:
       icon:

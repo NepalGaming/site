@@ -1,0 +1,89 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "noindex",
+          "name": "noindex",
+          "type": "boolean"
+        },
+        {
+          "title": "featured",
+          "name": "featured",
+          "type": "boolean"
+        },
+        {
+          "title": "pinned",
+          "name": "pinned",
+          "type": "boolean"
+        },
+        {
+          "title": "series",
+          "name": "series",
+          "type": "choice",
+          "choices": [
+            "Gaming News",
+            "Announcements"
+          ]
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories",
+          "choices": [
+            "News",
+            "Nepal",
+            "Updates",
+            "Events"
+          ]
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "images",
+          "name": "images",
+          "type": "choice",
+          "choices": [
+            ""
+          ]
+        },
+        {
+          "title": "authors",
+          "name": "authors",
+          "type": "choice",
+          "choices": [
+            "Nepal.gg"
+          ]
+        }
+      ]
+    }
+  ],
+  "frontMatter.git.enabled": true
+}

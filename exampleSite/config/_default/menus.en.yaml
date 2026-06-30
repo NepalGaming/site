@@ -6,31 +6,30 @@ main:
       icon:
         vendor: fas
         name: blog
-
   - name: Support
     identifier: support
     weight: 100
-    url: https://github.com/hbstack
+    url: https://github.com/nepalgg
     params:
       header: The HB support community.
       icon:
         vendor: font-awesome-solid
         name: headset
 
-  - name: Documentation
-    parent: support
-    url: https://hbstack.dev/
-    weight: 1
-    params:
-      icon:
-        vendor: bs
-        name: book
-        className: text-primary
-      description: The documentation.
+  # - name: Documentation
+  #   parent: support
+  #   url: https://github.com/nepalgg/site
+  #   weight: 1
+  #   params:
+  #     icon:
+  #       vendor: bs
+  #       name: book
+  #       className: text-primary
+  #     description: The documentation.
 
   - name: GitHub
     parent: support
-    url: https://github.com/hbstack
+    url: https://github.com/nepalgg
     weight: 11
     params:
       icon:
@@ -40,7 +39,7 @@ main:
 
   - name: Discussion
     parent: support
-    url: https://github.com/orgs/hbstack/discussions
+    url: https://github.com/orgs/nepalgg/discussions
     weight: 12
     params:
       icon:
@@ -51,7 +50,7 @@ main:
 
   - name: Bug Report
     parent: support
-    url: https://github.com/orgs/hbstack/discussions/new?category=issues-and-bugs
+    url: https://github.com/orgs/nepalgg/discussions/new?category=issues-and-bugs
     weight: 13
     params:
       icon:
@@ -62,7 +61,7 @@ main:
 
   - name: Feature Request
     parent: support
-    url: https://github.com/orgs/hbstack/discussions/new?category=ideas
+    url: https://github.com/orgs/nepalgg/discussions/new?category=ideas
     weight: 14
     params:
       icon:
@@ -73,10 +72,132 @@ main:
   
   - name: Mastodon
     parent: support
-    url: https://techhub.social/@hbstack
+    url: https://mstdn.games/@nepal
     weight: 16
     params:
       icon:
         vendor: simple
         name: mastodon
       description: Follow us on Mastodon to get latest updates.
+footer:
+- identifier: a
+  weight: 1
+  name: Events
+- name: Ongoing
+  weight: 10
+  params:
+    icon:
+      color: '#712cf9'
+      name: arrow-right-circle-fill
+      vendor: bootstrap
+  parent: a
+  url: '#a-1'
+- name: Coming Soon
+  weight: 11
+  params:
+    icon:
+      color: '#712cf9'
+      name: arrow-up-circle-fill
+      vendor: bootstrap
+  parent: a
+  url: '#a-2'
+- name: Past
+  weight: 12
+  params:
+    icon:
+      color: '#712cf9'
+      name: arrow-down-circle-fill
+      vendor: bootstrap
+  parent: a
+  url: '#a-3'
+- identifier: b
+  weight: 2
+  name: Resources
+- name: Games
+  weight: 20
+  params:
+    icon:
+      color: green
+      name: display
+      vendor: bootstrap
+  parent: b
+  url: '#b-1'
+- name: Wiki
+  weight: 21
+  params:
+    icon:
+      color: green
+      name: book-half
+      vendor: bootstrap
+  parent: b
+  url: '#b-2'
+- name: Blog
+  weight: 22
+  params:
+    icon:
+      color: green
+      name: journal-richtext
+      vendor: bootstrap
+  parent: b
+  url: '#b-3'
+- identifier: c
+  weight: 3
+  name: Company
+- name: About Us
+  weight: 30
+  params:
+    icon:
+      color: blue
+      name: people-fill
+      vendor: bootstrap
+  parent: c
+  url: '#c-1'
+- name: Contact
+  weight: 31
+  params:
+    icon:
+      color: blue
+      name: inbox-fill
+      vendor: bootstrap
+  parent: c
+  url: '#c-2'
+- name: Meetups
+  weight: 32
+  params:
+    icon:
+      color: blue
+      name: person-raised-hand
+      vendor: bootstrap
+  parent: c
+  url: '#c-3'
+# - identifier: d
+#   weight: 4
+#   name: Support
+# - name: Contribute
+#   weight: 40
+#   params:
+#     icon:
+#       color: red
+#       name: pencil-square
+#       vendor: bootstrap
+#   parent: d
+#   url: '#d-1'
+# - name: Donate
+#   weight: 41
+#   params:
+#     icon:
+#       color: red
+#       name: currency-exchange
+#       vendor: bootstrap
+#   parent: d
+#   url: '#d-2'
+# - name: Share the Word
+#   weight: 42
+#   params:
+#     icon:
+#       color: red
+#       name: person-hearts
+#       vendor: bootstrap
+#   parent: d
+#   url: '#d-3'
+

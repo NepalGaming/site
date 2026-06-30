@@ -1,26 +1,29 @@
-description: The cards theme template of HB (Hugo Bootstrap) Framework.
+description: Gaming in Nepal and rest of the World.
 
 hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
   full_width: false # when true, the layout takes full width globally.
   header:
-    brand: HB # the brand name, leave it empty to use site's title.
+    brand: Gaming Nepal # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
-    socials:
-      github: hbstack
-      # twitter: razonyang
-      rss: true
-      mastodon: https://techhub.social/@hbstack
+    # socials:
+    #   github: nepalgg
+    #   # twitter: razonyang
+    #   rss: true
+    #   mastodon: https://mstdn.games/@nepal
   footer:
+    powered_by: false
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       _color: true # when false, remove the color of social icons.
-      github: hbstack
-      twitter: razonyang
+      github: nepalgg
+      discord: https://discord.gg/jRPVYegaD8
       rss: true
-      mastodon: https://techhub.social/@hbstack
+      matrix: https://matrix.to/#/#nepal:kde.org
+      mastodon: https://mstdn.games/@nepal
+
   blog:
     list_cols_md: 2
     list_cols_lg: 3
@@ -28,29 +31,35 @@ hb:
       position: end
     social_share_buttons:
       alignment: center
+      labels: false
+      size: 2em
       media:
         - twitter
         - facebook
         - linkedin
-        - sinaweibo
+        - email
+        - reddit
+        - telegram
+        - whatsapp
     sidebar:
-      sticky: true # set it to false to not stick the sidebar.
-      width: .35 # the width of sidebar.
+      sticky: false # set it to false to not stick the sidebar.
+      width: .15 # the width of sidebar.
+      max_width: 200px
       position: start # the sidebar position: start (left) or end (right).
       profile:
         # title: Profile title other than site title.
         # description: Profile description other than site description.
         avatar_size: 100
-        company: COMPANY
-        location: Earth
-        socials:
-          github: hbstack
-          mastodon: https://techhub.social/@hbstack
-          rss: true
+        # company:
+        location: Nepal
+        # socials:
+        #   github: nepalgg
+        #   mastodon: https://mstdn.games/@nepal
+        #   rss: true
       posts:
         recent_count: 5 # the number of recent posts.
         featured_count: 5 # the number of featured posts.
-        style: pills # pills, tabs or underline.
+        style: tabs # pills, tabs or underline.
         list_style: slide # slide or vertical.
       taxonomies:
         count: true # whether to show the number of posts associated to the item.
@@ -86,24 +95,30 @@ hb:
         - blog
         - news
     giscus:
-      repo: hbstack/theme-cards
+      repo: nepalgg/site
       repo_id: R_kgDOK1LmSQ
       category_id: DIC_kwDOK1LmSc4CbdiM
   docs:
     giscus:
-      repo: hbstack/theme-cards
+      repo: nepalgg/site
       repo_id: R_kgDOK1LmSQ
       category_id: DIC_kwDOK1LmSc4CbdiM
     social_share_buttons:
       alignment: center
+      labels: false
+      size: 2em
       media:
         - twitter
         - facebook
         - linkedin
+        - email
+        - reddit
+        - telegram
+        - whatsapp
   content_panel:
     repo:
-      service: github # github or gitlab.
-      repo: hbstack/theme-cards
+      service: github # github or gitlab for edits
+      repo: nepalgg/site
       branch: main
       subpath: exampleSite
   # gallery:
@@ -122,7 +137,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'HB Theme'
+    short_name: 'Nepali Gaming Hub'
 
 # see https://hugomods.com/search/configurations/.
 search:

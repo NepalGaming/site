@@ -1,6 +1,7 @@
 ---
 title: 不带图片的文章
 featured: true
+draft: true
 date: 2022-09-10
 series:
   - 示例

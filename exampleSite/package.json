@@ -19,6 +19,6 @@
     "@fullhuman/postcss-purgecss": "^8.0.0",
     "autoprefixer": "^10.4.21",
     "postcss-cli": "^11.0.0",
-    "rtlcss": "^4.0.0"
+    "rtlcss": "^4.1.1"
   }
 }

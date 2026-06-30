@@ -1,5 +1,5 @@
 ---
-title: HB Cards Theme
+title: Nepali Gaming Hub
 # menu:
 #   main:
 #     name: Home

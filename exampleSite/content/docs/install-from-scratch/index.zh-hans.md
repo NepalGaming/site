@@ -3,7 +3,7 @@ title: "从头开始安装"
 description: "从头开始使用 HB 卡主题构建快速、响应式和模块化静态网站。"
 # linkTitle:
 date: 2023-12-02T11:47:31+08:00
-draft: false
+draft: true
 noindex: false
 featured: true
 pinned: true

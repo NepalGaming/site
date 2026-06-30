@@ -1,0 +1,13 @@
+{
+    "frontMatter.framework.id": "hugo",
+    "frontMatter.framework.startCommand": "cd exampleSite | hugo server --gc --cleanDestinationDir",
+    "frontMatter.content.publicFolder": "exampleSite/static",
+    "frontMatter.preview.host": "http://localhost:1313",
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "content",
+            "path": "[[workspace]]/exampleSite/content/"
+        }
+    ],
+    "[markdown]": {}
+}
