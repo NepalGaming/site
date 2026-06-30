@@ -1,6 +1,6 @@
 module github.com/hbstack/theme-cards/exampleSite
 
-go 1.21.3
+go 1.22.1
 
 replace github.com/hbstack/theme-cards => ../
 
