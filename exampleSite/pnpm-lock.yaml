@@ -18,7 +18,7 @@ importers:
         specifier: ^11.0.0
         version: 11.0.1(postcss@8.5.15)
       rtlcss:
-        specifier: ^4.0.0
+        specifier: ^4.1.1
         version: 4.3.0
 
 packages:
