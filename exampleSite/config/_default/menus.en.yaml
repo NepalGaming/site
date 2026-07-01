@@ -7,7 +7,7 @@ main:
         vendor: fas
         name: blog
   - name: Forum
-    identifier: Forum
+    identifier: forum
     weight: 100
     url: https://for.nepal.gg
     params:
@@ -69,7 +69,7 @@ main:
   #       name: lightbulb
   #       color: orange
   #     description: Suggest new or updated features.
-  
+
   # - name: Mastodon
   #   parent: support
   #   url: https://mstdn.games/@nepal
@@ -80,96 +80,96 @@ main:
   #       name: mastodon
   #     description: Follow us on Mastodon to get latest updates.
 footer:
-- identifier: a
-  weight: 1
-  name: Events
-- name: Ongoing
-  weight: 10
-  params:
-    icon:
-      color: '#712cf9'
-      name: arrow-right-circle-fill
-      vendor: bootstrap
-  parent: a
-  url: '#a-1'
-- name: Coming Soon
-  weight: 11
-  params:
-    icon:
-      color: '#712cf9'
-      name: arrow-up-circle-fill
-      vendor: bootstrap
-  parent: a
-  url: '#a-2'
-- name: Past
-  weight: 12
-  params:
-    icon:
-      color: '#712cf9'
-      name: arrow-down-circle-fill
-      vendor: bootstrap
-  parent: a
-  url: '#a-3'
-- identifier: b
-  weight: 2
-  name: Resources
-- name: Forum
-  weight: 20
-  params:
-    icon:
-      color: green
-      name: display
-      vendor: bootstrap
-  parent: b
-  url: 'https://for.nepal.gg'
-- name: Wiki
-  weight: 21
-  params:
-    icon:
-      color: green
-      name: book-half
-      vendor: bootstrap
-  parent: b
-  url: 'https://wiki.nepal.gg'
-- name: Blog
-  weight: 22
-  params:
-    icon:
-      color: green
-      name: journal-richtext
-      vendor: bootstrap
-  parent: b
-  url: '#b-3'
-- identifier: c
-  weight: 3
-  name: Company
-- name: About Us
-  weight: 30
-  params:
-    icon:
-      color: blue
-      name: people-fill
-      vendor: bootstrap
-  parent: c
-  url: '#c-1'
-- name: Contact
-  weight: 31
-  params:
-    icon:
-      color: blue
-      name: inbox-fill
-      vendor: bootstrap
-  parent: c
-  url: '#c-2'
-- name: Meetups
-  weight: 32
-  params:
-    icon:
-      color: blue
-      name: person-raised-hand
-      vendor: bootstrap
-  parent: c
-  url: '#c-3'
+  - identifier: a
+    weight: 1
+    name: Events
+  - name: Ongoing
+    weight: 10
+    params:
+      icon:
+        color: "#712cf9"
+        name: arrow-right-circle-fill
+        vendor: bootstrap
+    parent: a
+    url: "#a-1"
+  - name: Coming Soon
+    weight: 11
+    params:
+      icon:
+        color: "#712cf9"
+        name: arrow-up-circle-fill
+        vendor: bootstrap
+    parent: a
+    url: "#a-2"
+  - name: Past
+    weight: 12
+    params:
+      icon:
+        color: "#712cf9"
+        name: arrow-down-circle-fill
+        vendor: bootstrap
+    parent: a
+    url: "#a-3"
+  - identifier: b
+    weight: 2
+    name: Resources
+  - name: Forum
+    weight: 20
+    params:
+      icon:
+        color: green
+        name: display
+        vendor: bootstrap
+    parent: b
+    url: "https://for.nepal.gg"
+  - name: Wiki
+    weight: 21
+    params:
+      icon:
+        color: green
+        name: book-half
+        vendor: bootstrap
+    parent: b
+    url: "https://wiki.nepal.gg"
+  - name: Blog
+    weight: 22
+    params:
+      icon:
+        color: green
+        name: journal-richtext
+        vendor: bootstrap
+    parent: b
+    url: "#b-3"
+  - identifier: c
+    weight: 3
+    name: Company
+  - name: About Us
+    weight: 30
+    params:
+      icon:
+        color: blue
+        name: people-fill
+        vendor: bootstrap
+    parent: c
+    url: "#c-1"
+  - name: Contact
+    weight: 31
+    params:
+      icon:
+        color: blue
+        name: inbox-fill
+        vendor: bootstrap
+    parent: c
+    url: "#c-2"
+  - name: Meetups
+    weight: 32
+    params:
+      icon:
+        color: blue
+        name: person-raised-hand
+        vendor: bootstrap
+    parent: c
+    url: "#c-3"
 # - identifier: d
 #   weight: 4
 #   name: Support
@@ -200,4 +200,3 @@ footer:
 #       vendor: bootstrap
 #   parent: d
 #   url: '#d-3'
-
