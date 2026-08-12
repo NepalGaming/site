@@ -1,7 +1,7 @@
 ---
 title: Notes
 type: docs
-description: Yet another digital garden that uses docs layout.
+description: Pages and notes for special cases.
 menu:
   main:
     weight: 1
