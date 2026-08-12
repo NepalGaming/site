@@ -6,7 +6,7 @@ description: "With the rise in gaming culture in Nepal, especially in mobile gam
 date: 2023-11-02T11:47:31+08:00
 noindex: false
 featured: true
-pinned: false
+pinned: true
 nav_weight: 1000
 nav_icon:
   vendor: bootstrap
