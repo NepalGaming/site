@@ -1,5 +1,5 @@
 ---
-title: Nepali Gaming Hub
+title: Nepali Gaming Hub - Nepali Gaming News and Community
 # menu:
 #   main:
 #     name: Home
