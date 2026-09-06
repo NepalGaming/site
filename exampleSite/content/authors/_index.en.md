@@ -1,5 +1,6 @@
 ---
 title: Authors
+description: These are the authors that write articles, guides, tips and updates and contribute to all the content on our website.
 menu:
   main:
     parent: blog
